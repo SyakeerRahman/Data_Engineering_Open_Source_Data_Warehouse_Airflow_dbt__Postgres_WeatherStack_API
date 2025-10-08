@@ -1,7 +1,6 @@
 # Data_Engineering_Open_Source_Data_Warehouse_Airflow_dbt_Postgres_Superset_WeatherStack_API
 
-<img width="4768" height="1936" alt="image" src="https://github.com/user-attachments/assets/c5c311f8-75b2-43ee-8e0c-eb114be84df7" />
-
+<img width="1172" height="464" alt="weatherstack" src="https://github.com/user-attachments/assets/9d609850-848d-4609-a332-cb2888d69536" />
 
 This repository contains a weather-data pipeline that uses Apache Airflow, PostgreSQL, and dbt. Everything runs via Docker Compose so you can bring the full stack up quickly for demos or local development.
 
